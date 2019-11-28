@@ -1,0 +1,8 @@
+D:\RPA\Code\Get_Word_As_HTML\Get_Word_As_HTML\obj\Debug\Get_Word_As_HTML.csprojAssemblyReference.cache
+D:\RPA\Code\Get_Word_As_HTML\Get_Word_As_HTML\obj\Debug\Get_Word_As_HTML.csproj.ResolveComReference.cache
+D:\RPA\Code\Get_Word_As_HTML\Get_Word_As_HTML\obj\Debug\Get_Word_As_HTML.csproj.CoreCompileInputs.cache
+D:\RPA\Code\Get_Word_As_HTML\Get_Word_As_HTML\bin\Debug\Get_Word_As_HTML.exe.config
+D:\RPA\Code\Get_Word_As_HTML\Get_Word_As_HTML\bin\Debug\Get_Word_As_HTML.exe
+D:\RPA\Code\Get_Word_As_HTML\Get_Word_As_HTML\bin\Debug\Get_Word_As_HTML.pdb
+D:\RPA\Code\Get_Word_As_HTML\Get_Word_As_HTML\obj\Debug\Get_Word_As_HTML.exe
+D:\RPA\Code\Get_Word_As_HTML\Get_Word_As_HTML\obj\Debug\Get_Word_As_HTML.pdb
