@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 
-using Word = Microsoft.Office.Interop.Word;
+
 
 namespace Get_Word_As_HTML
 {
@@ -15,15 +15,15 @@ namespace Get_Word_As_HTML
         
         public static void ConvertDocToHtml(object Sourcepath, object TargetPath)
         {
-            Word._Application newApp = new Word.Application();
-            Word.Documents d = newApp.Documents;
+            Microsoft.Office.Interop.Word._Application newApp = new Microsoft.Office.Interop.Word.Application();
+            Microsoft.Office.Interop.Word.Documents d = newApp.Documents;
             object Unknown = Type.Missing;
-            Word.Document od = d.Open(ref Sourcepath, ReadOnly: false, Visible: true);
-            object format = Word.WdSaveFormat.wdFormatHTML;
+            Microsoft.Office.Interop.Word.Document od = d.Open(ref Sourcepath, ReadOnly: false, Visible: true);
+            object format = Microsoft.Office.Interop.Word.WdSaveFormat.wdFormatHTML;
 
             newApp.ActiveDocument.SaveAs(ref TargetPath, format);
 
-            newApp.Documents.Close(Word.WdSaveOptions.wdDoNotSaveChanges);
+            newApp.Documents.Close(Microsoft.Office.Interop.Word.WdSaveOptions.wdDoNotSaveChanges);
         }
 
         static void Main(string[] args)
@@ -34,8 +34,8 @@ namespace Get_Word_As_HTML
 
             ConvertDocToHtml(sourcePath, targetPath);
 
-            //string html = System.IO.File.ReadAllText(targetPath);
-            //Console.WriteLine(html);
+            string html = System.IO.File.ReadAllText(targetPath + ".htm");
+            Console.WriteLine(html);
 
             foreach (var process in Process.GetProcessesByName("WINWORD"))
                 process.Kill();
