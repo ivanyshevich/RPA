@@ -29,9 +29,13 @@ namespace Get_Word_As_HTML
         static void Main(string[] args)
         {
             String sourcePath = @"D:\Test";
-            String targetPath = @"D:\Test1";
+            String targetPath = @"D:\Test1.htm";
 
             ConvertDocToHtml(sourcePath, targetPath);
+
+            string html = System.IO.File.ReadAllText(targetPath);
+
+            Console.WriteLine(html);
 
             foreach (var process in Process.GetProcessesByName("WINWORD"))
                 process.Kill();
