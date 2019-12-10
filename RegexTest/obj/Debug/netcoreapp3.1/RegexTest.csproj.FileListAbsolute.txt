@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\RPA\Code\RegexTest\bin\Debug\netcoreapp3.1\RegexTest.exe
+C:\Users\admin\Documents\RPA\Code\RegexTest\bin\Debug\netcoreapp3.1\RegexTest.deps.json
+C:\Users\admin\Documents\RPA\Code\RegexTest\bin\Debug\netcoreapp3.1\RegexTest.runtimeconfig.json
+C:\Users\admin\Documents\RPA\Code\RegexTest\bin\Debug\netcoreapp3.1\RegexTest.runtimeconfig.dev.json
+C:\Users\admin\Documents\RPA\Code\RegexTest\bin\Debug\netcoreapp3.1\RegexTest.dll
+C:\Users\admin\Documents\RPA\Code\RegexTest\bin\Debug\netcoreapp3.1\RegexTest.pdb
+C:\Users\admin\Documents\RPA\Code\RegexTest\obj\Debug\netcoreapp3.1\RegexTest.csprojAssemblyReference.cache
+C:\Users\admin\Documents\RPA\Code\RegexTest\obj\Debug\netcoreapp3.1\RegexTest.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\RPA\Code\RegexTest\obj\Debug\netcoreapp3.1\RegexTest.AssemblyInfo.cs
+C:\Users\admin\Documents\RPA\Code\RegexTest\obj\Debug\netcoreapp3.1\RegexTest.dll
+C:\Users\admin\Documents\RPA\Code\RegexTest\obj\Debug\netcoreapp3.1\RegexTest.pdb
