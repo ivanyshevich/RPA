@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\bin\Debug\netcoreapp3.1\RegexParagraphs.exe
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\bin\Debug\netcoreapp3.1\RegexParagraphs.deps.json
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\bin\Debug\netcoreapp3.1\RegexParagraphs.runtimeconfig.json
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\bin\Debug\netcoreapp3.1\RegexParagraphs.runtimeconfig.dev.json
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\bin\Debug\netcoreapp3.1\RegexParagraphs.dll
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\bin\Debug\netcoreapp3.1\RegexParagraphs.pdb
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\obj\Debug\netcoreapp3.1\RegexParagraphs.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\obj\Debug\netcoreapp3.1\RegexParagraphs.AssemblyInfo.cs
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\obj\Debug\netcoreapp3.1\RegexParagraphs.dll
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\obj\Debug\netcoreapp3.1\RegexParagraphs.pdb
+C:\Users\admin\Documents\RPA\Code\RegexParagraphs\obj\Debug\netcoreapp3.1\RegexParagraphs.csprojAssemblyReference.cache
