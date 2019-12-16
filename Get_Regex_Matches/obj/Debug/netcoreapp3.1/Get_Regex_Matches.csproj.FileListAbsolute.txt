@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Get_Regex_Matches\bin\Debug\netcoreapp3.1\Get_Regex_Matches.exe
+C:\Users\admin\source\repos\Get_Regex_Matches\bin\Debug\netcoreapp3.1\Get_Regex_Matches.deps.json
+C:\Users\admin\source\repos\Get_Regex_Matches\bin\Debug\netcoreapp3.1\Get_Regex_Matches.runtimeconfig.json
+C:\Users\admin\source\repos\Get_Regex_Matches\bin\Debug\netcoreapp3.1\Get_Regex_Matches.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Get_Regex_Matches\bin\Debug\netcoreapp3.1\Get_Regex_Matches.dll
+C:\Users\admin\source\repos\Get_Regex_Matches\bin\Debug\netcoreapp3.1\Get_Regex_Matches.pdb
+C:\Users\admin\source\repos\Get_Regex_Matches\obj\Debug\netcoreapp3.1\Get_Regex_Matches.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Get_Regex_Matches\obj\Debug\netcoreapp3.1\Get_Regex_Matches.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Get_Regex_Matches\obj\Debug\netcoreapp3.1\Get_Regex_Matches.AssemblyInfo.cs
+C:\Users\admin\source\repos\Get_Regex_Matches\obj\Debug\netcoreapp3.1\Get_Regex_Matches.dll
+C:\Users\admin\source\repos\Get_Regex_Matches\obj\Debug\netcoreapp3.1\Get_Regex_Matches.pdb
